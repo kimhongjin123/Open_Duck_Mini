@@ -1,0 +1,540 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-08-26T22:20:59+0900",
+    "kicad_version": "9.0.4",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/b4d3f375-eaa4-4837-bd6e-6588d8e153ea",
+            "violations": [
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1016 mm",
+                            "pos": {
+                                "x": 0.5461,
+                                "y": 0.9779
+                            },
+                            "uuid": "dd11ccc3-eca2-4143-933c-ff836c97f67a"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1016 mm",
+                            "pos": {
+                                "x": 0.5461,
+                                "y": 1.27
+                            },
+                            "uuid": "13dabea1-9bff-4f79-97ed-65e708fba167"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2032 mm",
+                            "pos": {
+                                "x": 0.3556,
+                                "y": 1.6891
+                            },
+                            "uuid": "d32087ca-b959-45a4-8866-5a0d35a3e9fc"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2032 mm",
+                            "pos": {
+                                "x": 0.3556,
+                                "y": 1.7145
+                            },
+                            "uuid": "d5571b91-39a6-4839-bfdf-0622f4aadb19"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2032 mm",
+                            "pos": {
+                                "x": 0.3556,
+                                "y": 1.7399
+                            },
+                            "uuid": "19c0889c-bcee-4f1c-ba98-e28fa7a19c36"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2032 mm",
+                            "pos": {
+                                "x": 0.3556,
+                                "y": 1.7653
+                            },
+                            "uuid": "a5b17770-8f0b-4dd4-a7c1-e6a3f070d19f"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2159 mm",
+                            "pos": {
+                                "x": 1.8161,
+                                "y": 0.4826
+                            },
+                            "uuid": "61fe1834-3361-4971-b0cf-a699a09935cf"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2159 mm",
+                            "pos": {
+                                "x": 1.8161,
+                                "y": 0.508
+                            },
+                            "uuid": "a2a37d7d-545e-4f07-8b42-44f23297cee0"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2159 mm",
+                            "pos": {
+                                "x": 1.8161,
+                                "y": 0.5334
+                            },
+                            "uuid": "e03895bc-78b4-4271-be82-9f28dbc578b7"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2159 mm",
+                            "pos": {
+                                "x": 1.8161,
+                                "y": 0.5588
+                            },
+                            "uuid": "7e71c2b9-e713-4c38-9353-b16af26cd000"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2159 mm",
+                            "pos": {
+                                "x": 1.8161,
+                                "y": 0.6096
+                            },
+                            "uuid": "d025ab09-3750-48bf-816e-5246aaed0f04"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2159 mm",
+                            "pos": {
+                                "x": 1.8161,
+                                "y": 0.635
+                            },
+                            "uuid": "41f9f647-8930-4970-8768-5330dea9775d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2159 mm",
+                            "pos": {
+                                "x": 1.8161,
+                                "y": 0.6858
+                            },
+                            "uuid": "e022f3f5-6162-4fc2-bb75-23dedf7cbf89"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2159 mm",
+                            "pos": {
+                                "x": 1.8161,
+                                "y": 0.8128
+                            },
+                            "uuid": "e8bbc044-2752-4043-9158-8ef7f78936a1"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2159 mm",
+                            "pos": {
+                                "x": 1.8161,
+                                "y": 0.9144
+                            },
+                            "uuid": "7b611ba4-9c09-4e90-92f4-895b9dbb55ba"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1143 mm",
+                            "pos": {
+                                "x": 2.0828,
+                                "y": 1.27
+                            },
+                            "uuid": "84175083-254f-47a3-b7ff-d1fff6df16bc"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1143 mm",
+                            "pos": {
+                                "x": 2.0828,
+                                "y": 1.2954
+                            },
+                            "uuid": "94853ddc-0f09-4fbe-8675-cd0aea91073a"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1143 mm",
+                            "pos": {
+                                "x": 2.0828,
+                                "y": 1.3208
+                            },
+                            "uuid": "a1c979b2-8707-4886-9de5-cf3392e0cd2d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1143 mm",
+                            "pos": {
+                                "x": 2.0828,
+                                "y": 1.3462
+                            },
+                            "uuid": "dec79cec-864d-49b9-a8b4-e1e950f1a301"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1143 mm",
+                            "pos": {
+                                "x": 2.0828,
+                                "y": 1.3716
+                            },
+                            "uuid": "d1904b1c-5f27-4edf-9e7d-f1723d380ac7"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.0381 mm",
+                            "pos": {
+                                "x": 2.6289,
+                                "y": 0.2667
+                            },
+                            "uuid": "5f15f10f-6a97-4e4d-9485-6527069c7711"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1143 mm",
+                            "pos": {
+                                "x": 2.5527,
+                                "y": 0.2921
+                            },
+                            "uuid": "cbf0185c-044e-42ef-afd3-f2694f698e40"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.0381 mm",
+                            "pos": {
+                                "x": 2.6289,
+                                "y": 0.3937
+                            },
+                            "uuid": "ee09acfb-fd71-4b6b-86e3-039d9f7ec5ae"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1143 mm",
+                            "pos": {
+                                "x": 2.5527,
+                                "y": 0.4191
+                            },
+                            "uuid": "11e338a9-625d-4d9a-9a41-4dc838a6385a"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.0381 mm",
+                            "pos": {
+                                "x": 2.6289,
+                                "y": 0.508
+                            },
+                            "uuid": "d3bf6cc6-8f7b-438a-8517-19fa20230ed2"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1143 mm",
+                            "pos": {
+                                "x": 2.5527,
+                                "y": 0.5334
+                            },
+                            "uuid": "935378ec-03f7-4eae-af2c-e045e7a019c4"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2667 mm",
+                            "pos": {
+                                "x": 2.413,
+                                "y": 0.762
+                            },
+                            "uuid": "a07d3182-5ac4-4153-8ad5-d2f39b7ae556"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2667 mm",
+                            "pos": {
+                                "x": 2.413,
+                                "y": 0.7874
+                            },
+                            "uuid": "bbff8a69-8410-4d80-8f07-6419bb3da084"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2667 mm",
+                            "pos": {
+                                "x": 2.413,
+                                "y": 0.8128
+                            },
+                            "uuid": "b254e20a-0354-41c3-8a54-fda90b8d2c68"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2667 mm",
+                            "pos": {
+                                "x": 2.413,
+                                "y": 0.9271
+                            },
+                            "uuid": "3034305b-be6c-41de-95fd-ed4a303bcc55"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2667 mm",
+                            "pos": {
+                                "x": 2.413,
+                                "y": 0.9525
+                            },
+                            "uuid": "091ca0ff-1369-4cc1-9f1c-fcf10f106fc9"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.2667 mm",
+                            "pos": {
+                                "x": 2.413,
+                                "y": 0.9779
+                            },
+                            "uuid": "623bb579-0375-4e84-a489-9ab848e2db72"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1143 mm",
+                            "pos": {
+                                "x": 2.5781,
+                                "y": 1.2827
+                            },
+                            "uuid": "b9b849d0-350f-4d3d-89eb-324efd416694"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1143 mm",
+                            "pos": {
+                                "x": 2.5781,
+                                "y": 1.3081
+                            },
+                            "uuid": "d10bf8ba-b663-4ccc-b710-ea5788f3859d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                },
+                {
+                    "description": "연결되지 않은 와이어 종단점",
+                    "items": [
+                        {
+                            "description": "수평 도선, 길이 0.1143 mm",
+                            "pos": {
+                                "x": 2.5781,
+                                "y": 1.3335
+                            },
+                            "uuid": "335bdfb8-b9a7-47b1-bcd0-51188bc72f3b"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "unconnected_wire_endpoint"
+                }
+            ]
+        }
+    ],
+    "source": "miniduc_shild.kicad_sch"
+}

@@ -8,6 +8,20 @@
    </tr> 
 </table>
 
+## Fork addition: MiniDuck IO Shield
+
+This fork adds a custom Raspberry Pi Zero 2 W I/O shield designed for the Open Duck Mini prototype. The addition includes the complete KiCad 9 project, connector and GPIO mapping, BOM, schematic PDF, prototype manufacturing outputs, photos, and a hardware demonstration video.
+
+**[Open the MiniDuck IO Shield documentation](hardware/miniduck-io-shield/README.md)**
+
+<p align="center">
+  <img src="hardware/miniduck-io-shield/media/kicad-3d-top.png" alt="MiniDuck IO Shield top render" width="42%">
+  <img src="hardware/miniduck-io-shield/media/assembled-shield-and-raspberry-pi.jpg" alt="Assembled MiniDuck IO Shield with Raspberry Pi Zero 2 W" width="42%">
+</p>
+
+> [!IMPORTANT]
+> This shield is a community hardware addition maintained in this fork; it is not part of the upstream Open Duck Mini design. Review the documented prototype warnings before fabrication.
+
 We are making a miniature version of the BDX Droid by Disney. It is about 42 centimeters tall with its legs extended.
 The full BOM cost should be under $400 !
 

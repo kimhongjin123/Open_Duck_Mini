@@ -9,3 +9,5 @@ experiments/RL/new/ppo/
 *.zip
 *.txt
 *.onnx
+/tmp/
+!hardware/miniduck-io-shield/manufacturing/miniduck-io-shield-gerbers.zip

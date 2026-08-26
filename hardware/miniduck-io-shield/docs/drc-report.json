@@ -1,0 +1,238 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-08-26T22:21:18+0900",
+    "kicad_version": "9.0.4",
+    "schematic_parity": [
+        {
+            "description": "여분의 풋프린트 존재",
+            "items": [
+                {
+                    "description": "풋프린트 <참조 지정자 없음>",
+                    "pos": {
+                        "x": 118.0,
+                        "y": 111.5
+                    },
+                    "uuid": "34c735d5-4c62-43ce-9303-010516472c33"
+                }
+            ],
+            "severity": "warning",
+            "type": "extra_footprint"
+        },
+        {
+            "description": "여분의 풋프린트 존재",
+            "items": [
+                {
+                    "description": "풋프린트 REF**",
+                    "pos": {
+                        "x": 87.5,
+                        "y": 42.5
+                    },
+                    "uuid": "64bf9f0a-baba-4c44-91a8-27b2dcba07a2"
+                }
+            ],
+            "severity": "warning",
+            "type": "extra_footprint"
+        }
+    ],
+    "source": "miniduc_shild.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "보드 가장자리로 클리핑 된 실크 스크린",
+            "items": [
+                {
+                    "description": "세그먼트 (Edge.Cuts)",
+                    "pos": {
+                        "x": 77.5,
+                        "y": 112.0
+                    },
+                    "uuid": "2ebdfbd0-2922-46aa-9aef-1e0536b8bda9"
+                },
+                {
+                    "description": "세그먼트 of J13 on F.Silkscreen",
+                    "pos": {
+                        "x": 75.4,
+                        "y": 113.3
+                    },
+                    "uuid": "22d4c891-4362-4abc-8b63-993265fc1a29"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_edge_clearance"
+        },
+        {
+            "description": "보드 가장자리로 클리핑 된 실크 스크린",
+            "items": [
+                {
+                    "description": "세그먼트 (Edge.Cuts)",
+                    "pos": {
+                        "x": 114.5,
+                        "y": 112.0
+                    },
+                    "uuid": "d2242b90-184c-46b0-9a9b-54d76734d233"
+                },
+                {
+                    "description": "세그먼트 of J13 on F.Silkscreen",
+                    "pos": {
+                        "x": 84.6,
+                        "y": 104.5
+                    },
+                    "uuid": "620f604c-f06f-4eb6-97cc-994bd94f1b17"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_edge_clearance"
+        },
+        {
+            "description": "풋프린트 'IDC-Header_2x20_P2.54mm_Latch6.5mm_Vertical'이(가) 라이브러리 'Connector_IDC'의 복사본과 일치하지 않습니다.",
+            "items": [
+                {
+                    "description": "풋프린트 J5",
+                    "pos": {
+                        "x": 113.5,
+                        "y": 51.76
+                    },
+                    "uuid": "29c2f355-71be-45cc-a2fa-2b58042e38fb"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_mismatch"
+        },
+        {
+            "description": "풋프린트 'Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles'이(가) 라이브러리 'Module'의 복사본과 일치하지 않습니다.",
+            "items": [
+                {
+                    "description": "풋프린트 REF**",
+                    "pos": {
+                        "x": 113.5,
+                        "y": 100.02
+                    },
+                    "uuid": "ed4c2ede-c92d-42d2-a945-dafa6c69de29"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_mismatch"
+        },
+        {
+            "description": "텍스트 높이가 범위를 벗어남 (board setup constraints silk text height 최소 높이 0.8000 mm; 실제 0.5000 mm)",
+            "items": [
+                {
+                    "description": "PCB 텍스트 'RX\n' (F.Silkscreen)",
+                    "pos": {
+                        "x": 124.0,
+                        "y": 89.0
+                    },
+                    "uuid": "0b53426e-927d-471e-b538-624453d40b73"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_height"
+        },
+        {
+            "description": "텍스트 높이가 범위를 벗어남 (board setup constraints silk text height 최소 높이 0.8000 mm; 실제 0.5000 mm)",
+            "items": [
+                {
+                    "description": "PCB 텍스트 '5V VOUT\n' (F.Silkscreen)",
+                    "pos": {
+                        "x": 121.0,
+                        "y": 73.0
+                    },
+                    "uuid": "0eb6dc81-330f-4efe-8710-a7cfbb02867f"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_height"
+        },
+        {
+            "description": "텍스트 높이가 범위를 벗어남 (board setup constraints silk text height 최소 높이 0.8000 mm; 실제 0.5000 mm)",
+            "items": [
+                {
+                    "description": "PCB 텍스트 'GND\n' (F.Silkscreen)",
+                    "pos": {
+                        "x": 121.0,
+                        "y": 89.0
+                    },
+                    "uuid": "136f0343-0249-4cc4-90c2-52cd012f9e1a"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_height"
+        },
+        {
+            "description": "텍스트 높이가 범위를 벗어남 (board setup constraints silk text height 최소 높이 0.8000 mm; 실제 0.5000 mm)",
+            "items": [
+                {
+                    "description": "PCB 텍스트 'TX' (F.Silkscreen)",
+                    "pos": {
+                        "x": 127.0,
+                        "y": 89.0
+                    },
+                    "uuid": "9252b434-8c1b-47aa-863d-2b0bb15d5cea"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_height"
+        },
+        {
+            "description": "텍스트 높이가 범위를 벗어남 (board setup constraints silk text height 최소 높이 0.8000 mm; 실제 0.5000 mm)",
+            "items": [
+                {
+                    "description": "PCB 텍스트 '5V VIN(Barrjack)' (F.Silkscreen)",
+                    "pos": {
+                        "x": 85.5,
+                        "y": 105.0
+                    },
+                    "uuid": "ed829669-5ea2-4d98-bc3b-fa5452d242d4"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_height"
+        },
+        {
+            "description": "텍스트 높이가 범위를 벗어남 (board setup constraints silk text height 최소 높이 0.8000 mm; 실제 0.5000 mm)",
+            "items": [
+                {
+                    "description": "PCB 텍스트 '3.3V VOUT\n' (F.Silkscreen)",
+                    "pos": {
+                        "x": 121.0,
+                        "y": 83.0
+                    },
+                    "uuid": "f07aaa61-706c-48a0-9a00-6724c9eb93b6"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_height"
+        },
+        {
+            "description": "실크스크린 영역이 솔더 마스크 영역에 의해 잘림",
+            "items": [
+                {
+                    "description": "세그먼트 of J5 on F.Silkscreen",
+                    "pos": {
+                        "x": 111.57,
+                        "y": 49.66
+                    },
+                    "uuid": "3a494b17-5f37-4bfa-ad86-f4c6f68737d9"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_over_copper"
+        },
+        {
+            "description": "실크스크린 영역이 솔더 마스크 영역에 의해 잘림",
+            "items": [
+                {
+                    "description": "세그먼트 of J5 on F.Silkscreen",
+                    "pos": {
+                        "x": 117.97,
+                        "y": 101.86
+                    },
+                    "uuid": "c3817e03-115a-4560-9751-42690fb001d3"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_over_copper"
+        }
+    ]
+}
